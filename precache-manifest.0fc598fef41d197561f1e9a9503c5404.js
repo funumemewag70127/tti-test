@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7945cffbedee1dab6d55d0d7689046c9",
+    "revision": "f023a2171e01ffa4e378ed0c371cb7d2",
     "url": "/tti-test/index.html"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tti-test/static/css/21.3160abae.chunk.css"
   },
   {
-    "revision": "72403cdc57de3d111442",
+    "revision": "4fe8e1ad4d093a7afb83",
     "url": "/tti-test/static/css/mobile.ecd62c6f.chunk.css"
   },
   {
-    "revision": "402bebc42a89b6021ba6",
+    "revision": "4267cba242a22a4e5ca5",
     "url": "/tti-test/static/css/openBox.ee0f3a95.chunk.css"
   },
   {
-    "revision": "763f44e4e346b9b5b4d7",
-    "url": "/tti-test/static/js/0.18d9b457.chunk.js"
+    "revision": "2d42efbacd360ac8c646",
+    "url": "/tti-test/static/js/0.a38a25a9.chunk.js"
   },
   {
-    "revision": "440a34e82b9c2afe9ade",
-    "url": "/tti-test/static/js/1.b38728af.chunk.js"
+    "revision": "8a98490b546be9356725",
+    "url": "/tti-test/static/js/1.1a5e01fe.chunk.js"
   },
   {
     "revision": "0b07cc0fbac17d9cdcc8",
@@ -44,24 +44,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tti-test/static/js/16.ce8d4796.chunk.js"
   },
   {
-    "revision": "dcba59a652d68f673d58",
-    "url": "/tti-test/static/js/17.a877cbe1.chunk.js"
+    "revision": "c5e562b4ef0e41fb3c2b",
+    "url": "/tti-test/static/js/17.256465ee.chunk.js"
   },
   {
     "revision": "6f0e512e899f21c7b32b",
     "url": "/tti-test/static/js/18.a76b5e8c.chunk.js"
   },
   {
-    "revision": "a6f895940645dbcdfeb7",
-    "url": "/tti-test/static/js/19.b351d432.chunk.js"
+    "revision": "fdd520941ed553ca8e3c",
+    "url": "/tti-test/static/js/19.f8e2e323.chunk.js"
   },
   {
     "revision": "a7a154ad0a181ed81abe",
     "url": "/tti-test/static/js/2.011e091a.chunk.js"
   },
   {
-    "revision": "fd2f02f6471ca52d25e0",
-    "url": "/tti-test/static/js/20.10a23c02.chunk.js"
+    "revision": "750ae37037c8693ebb9c",
+    "url": "/tti-test/static/js/20.281af86b.chunk.js"
   },
   {
     "revision": "62eec231f79face948af",
@@ -84,48 +84,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tti-test/static/js/25.ea97fab6.chunk.js"
   },
   {
-    "revision": "7cfde4c345e858ffc78b",
-    "url": "/tti-test/static/js/AboutUS.88bed945.chunk.js"
+    "revision": "e3fe127bfab466a262af",
+    "url": "/tti-test/static/js/AboutUS.fdfffe0f.chunk.js"
   },
   {
-    "revision": "e7852e5dfb31334762d5",
-    "url": "/tti-test/static/js/AnnouncementPage.defa114c.chunk.js"
+    "revision": "4af59a587aba8308085d",
+    "url": "/tti-test/static/js/AnnouncementPage.4c8efb10.chunk.js"
   },
   {
-    "revision": "f88f803af5706a9bc374",
-    "url": "/tti-test/static/js/Invitation.c12264d1.chunk.js"
+    "revision": "a59b5be6e4f522965abf",
+    "url": "/tti-test/static/js/Invitation.bc4e9975.chunk.js"
   },
   {
-    "revision": "4582bd3fba68f63dec94",
-    "url": "/tti-test/static/js/LanguageSelector.34a366a5.chunk.js"
+    "revision": "c33f54d24e40a000ceea",
+    "url": "/tti-test/static/js/LanguageSelector.9d72732b.chunk.js"
   },
   {
-    "revision": "996c8736b3f1ea1cc63d",
-    "url": "/tti-test/static/js/MyEarningPage.dd41b6ac.chunk.js"
+    "revision": "29183fc7dc9753e62282",
+    "url": "/tti-test/static/js/MyEarningPage.bf2e0958.chunk.js"
   },
   {
-    "revision": "b3f4d38943160380cc2a",
-    "url": "/tti-test/static/js/Transfer.cd4aeff9.chunk.js"
+    "revision": "d07da37d260c749f3ece",
+    "url": "/tti-test/static/js/Transfer.9f334d36.chunk.js"
   },
   {
     "revision": "074ebc65a450732d7e9e",
     "url": "/tti-test/static/js/appMain.fc00ad6d.chunk.js"
   },
   {
-    "revision": "56eb034fa69636545d4d",
-    "url": "/tti-test/static/js/home.dfb0a314.chunk.js"
+    "revision": "4e1141f928d0477b7000",
+    "url": "/tti-test/static/js/home.7e8e1351.chunk.js"
   },
   {
-    "revision": "72403cdc57de3d111442",
-    "url": "/tti-test/static/js/mobile.4e220e9a.chunk.js"
+    "revision": "4fe8e1ad4d093a7afb83",
+    "url": "/tti-test/static/js/mobile.0c16d2a2.chunk.js"
   },
   {
-    "revision": "402bebc42a89b6021ba6",
-    "url": "/tti-test/static/js/openBox.86c0ccf3.chunk.js"
+    "revision": "4267cba242a22a4e5ca5",
+    "url": "/tti-test/static/js/openBox.17877536.chunk.js"
   },
   {
-    "revision": "b49972f42cf92e1cf69a",
-    "url": "/tti-test/static/js/runtime~appMain.f0f6a3b1.js"
+    "revision": "4921bbe1dd00efcfbe50",
+    "url": "/tti-test/static/js/runtime~appMain.72f05d6a.js"
   },
   {
     "revision": "0698e36890f5c041e20644e1af75ae0f",
