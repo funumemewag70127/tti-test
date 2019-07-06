@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "049c8e76e936a8db322b8a52248f69e2",
+    "revision": "73516a8a43ff41667dfd1376bd5cabde",
     "url": "/tti-test/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tti-test/static/css/22.3160abae.chunk.css"
   },
   {
-    "revision": "a089e2b97d21cdc7f243",
+    "revision": "4d217880008ea89ddb27",
     "url": "/tti-test/static/css/mobile.ecd62c6f.chunk.css"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tti-test/static/js/23.75889166.chunk.js"
   },
   {
-    "revision": "d26e3ce76293db2715b3",
-    "url": "/tti-test/static/js/24.93183c5a.chunk.js"
+    "revision": "257f9510472ecc1eaa06",
+    "url": "/tti-test/static/js/24.ee9509ee.chunk.js"
   },
   {
     "revision": "ba0f888d1c804a525367",
@@ -108,28 +108,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tti-test/static/js/MyEarningPage.a2f38490.chunk.js"
   },
   {
-    "revision": "8464abe5e9fa9fd7bbb8",
-    "url": "/tti-test/static/js/Transfer.b1326aa7.chunk.js"
+    "revision": "382fc9296a6106971cf9",
+    "url": "/tti-test/static/js/Transfer.c1d66ce7.chunk.js"
   },
   {
     "revision": "da380e30a2a342b462c1",
     "url": "/tti-test/static/js/appMain.650835b3.chunk.js"
   },
   {
-    "revision": "f9b7ac7837169f6eed17",
-    "url": "/tti-test/static/js/home.2f7f0f93.chunk.js"
+    "revision": "5b8027ab6fc357172dce",
+    "url": "/tti-test/static/js/home.ef40143b.chunk.js"
   },
   {
-    "revision": "a089e2b97d21cdc7f243",
-    "url": "/tti-test/static/js/mobile.b0ad074e.chunk.js"
+    "revision": "4d217880008ea89ddb27",
+    "url": "/tti-test/static/js/mobile.ebc38676.chunk.js"
   },
   {
     "revision": "d841dfb238dd40ed198f",
     "url": "/tti-test/static/js/openBox.6a636c70.chunk.js"
   },
   {
-    "revision": "1000e0e1951223edf6e9",
-    "url": "/tti-test/static/js/runtime~appMain.6a8b5c96.js"
+    "revision": "fcf84605e7ef16f05a8d",
+    "url": "/tti-test/static/js/runtime~appMain.a23ee31c.js"
   },
   {
     "revision": "0698e36890f5c041e20644e1af75ae0f",
