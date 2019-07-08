@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f399d5e47b0f6f06ed6d655e1e1a69b",
+    "revision": "2bcf1023705cfed3acbf2e2f91f154e5",
     "url": "/tti-test/index.html"
   },
   {
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tti-test/static/js/MyEarningPage.7638ad54.chunk.js"
   },
   {
-    "revision": "28d7f675054108ce70e6",
-    "url": "/tti-test/static/js/Transfer.89ccb327.chunk.js"
+    "revision": "c499a8f0e901080c1854",
+    "url": "/tti-test/static/js/Transfer.40ab144e.chunk.js"
   },
   {
     "revision": "d0523b4eb819f694af3f",
@@ -128,8 +128,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tti-test/static/js/openBox.b7539519.chunk.js"
   },
   {
-    "revision": "05fca7a2f983d9e56f61",
-    "url": "/tti-test/static/js/runtime~appMain.1da886e7.js"
+    "revision": "786c29e1b632eafdc6ae",
+    "url": "/tti-test/static/js/runtime~appMain.af3c971b.js"
   },
   {
     "revision": "0698e36890f5c041e20644e1af75ae0f",
